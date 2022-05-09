@@ -1,6 +1,6 @@
 # Deep Learning (CS7643) Group Project
 ## Dan Tylutki, Hassan Naveed, Jake Banigan, Saeb Hashish
-NOTE: This was a joint project forked from the team's github enterprise and made available publicly. The report is available as Project_Report__CS_7643.pdf
+NOTE: This was a joint project forked from the team's github enterprise and made available publicly. The report is available as [Project_Report__CS_7643.pdf](https://github.com/hassannaveed1997/Hateful-Memes-Classification/blob/main/Project_Report___CS_7643.pdf)
 
 ### Baseline Notebook:
 
