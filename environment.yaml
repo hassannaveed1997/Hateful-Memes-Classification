@@ -1,0 +1,14 @@
+name: dlproject
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - pyyaml
+  - matplotlib
+  - jupyter
+  - pytorch
+  - transformers
+  - tqdm
+  - google-cloud-storage
+  - pandas
+  - spacy==2.3.5

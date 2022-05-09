@@ -1,0 +1,22 @@
+Epoch 1/100
+/content/drive/MyDrive/deep-learning-project/google_text_classifier/train_model.py:161: UserWarning: `Model.fit_generator` is deprecated and will be removed in a future version. Please use `Model.fit`, which supports generators.
+  verbose=2)  # Logs once per epoch.
+67/67 - 5s - loss: 0.6877 - acc: 0.6285 - val_loss: 0.6826 - val_acc: 0.6296 - 5s/epoch - 70ms/step
+Epoch 2/100
+67/67 - 3s - loss: 0.6781 - acc: 0.6448 - val_loss: 0.6747 - val_acc: 0.6296 - 3s/epoch - 43ms/step
+Epoch 3/100
+67/67 - 3s - loss: 0.6693 - acc: 0.6448 - val_loss: 0.6676 - val_acc: 0.6296 - 3s/epoch - 43ms/step
+Epoch 4/100
+67/67 - 3s - loss: 0.6615 - acc: 0.6448 - val_loss: 0.6627 - val_acc: 0.6296 - 3s/epoch - 44ms/step
+Epoch 5/100
+67/67 - 3s - loss: 0.6563 - acc: 0.6448 - val_loss: 0.6601 - val_acc: 0.6296 - 3s/epoch - 43ms/step
+Epoch 6/100
+67/67 - 3s - loss: 0.6531 - acc: 0.6448 - val_loss: 0.6593 - val_acc: 0.6296 - 3s/epoch - 43ms/step
+Epoch 7/100
+67/67 - 3s - loss: 0.6521 - acc: 0.6448 - val_loss: 0.6592 - val_acc: 0.6296 - 3s/epoch - 43ms/step
+Epoch 8/100
+67/67 - 3s - loss: 0.6515 - acc: 0.6448 - val_loss: 0.6592 - val_acc: 0.6296 - 3s/epoch - 43ms/step
+Epoch 9/100
+67/67 - 3s - loss: 0.6512 - acc: 0.6448 - val_loss: 0.6593 - val_acc: 0.6296 - 3s/epoch - 43ms/step
+Validation accuracy: 0.6296296119689941, loss: 0.6592591404914856
+(0.6296296119689941, 0.6592591404914856)
